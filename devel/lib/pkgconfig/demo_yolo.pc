@@ -1,0 +1,8 @@
+prefix=/home/vladilena/catkin_ws/devel
+
+Name: demo_yolo
+Description: Description of demo_yolo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
